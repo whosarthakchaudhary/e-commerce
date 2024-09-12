@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7dbcfad4.css",
+    "main.js": "/static/js/main.06f510ed.js",
+    "static/js/453.536d9aeb.chunk.js": "/static/js/453.536d9aeb.chunk.js",
+    "static/media/Jwel.png": "/static/media/Jwel.db85688796fe2cdd50ca.png",
+    "static/media/Apperance.png": "/static/media/Apperance.fa7552d9e0816d67f963.png",
+    "static/media/Electronics.png": "/static/media/Electronics.2d188c48cbbb572fc1af.png",
+    "index.html": "/index.html",
+    "main.7dbcfad4.css.map": "/static/css/main.7dbcfad4.css.map",
+    "main.06f510ed.js.map": "/static/js/main.06f510ed.js.map",
+    "453.536d9aeb.chunk.js.map": "/static/js/453.536d9aeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbcfad4.css",
+    "static/js/main.06f510ed.js"
+  ]
+}
